@@ -1,0 +1,13 @@
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\obj\Debug\netcoreapp3.1\Konfigurasyon.csprojAssemblyReference.cache
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\obj\Debug\netcoreapp3.1\Konfigurasyon.AssemblyInfoInputs.cache
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\obj\Debug\netcoreapp3.1\Konfigurasyon.AssemblyInfo.cs
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\obj\Debug\netcoreapp3.1\Konfigurasyon.csproj.CoreCompileInputs.cache
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\bin\Debug\netcoreapp3.1\Konfigurasyon.exe
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\bin\Debug\netcoreapp3.1\Konfigurasyon.deps.json
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\bin\Debug\netcoreapp3.1\Konfigurasyon.runtimeconfig.json
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\bin\Debug\netcoreapp3.1\Konfigurasyon.runtimeconfig.dev.json
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\bin\Debug\netcoreapp3.1\Konfigurasyon.dll
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\bin\Debug\netcoreapp3.1\Konfigurasyon.pdb
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\obj\Debug\netcoreapp3.1\Konfigurasyon.dll
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\obj\Debug\netcoreapp3.1\Konfigurasyon.pdb
+C:\Users\senad\source\repos\Konfigurasyon\Konfigurasyon\obj\Debug\netcoreapp3.1\Konfigurasyon.genruntimeconfig.cache
